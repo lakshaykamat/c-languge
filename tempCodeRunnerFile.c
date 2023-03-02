@@ -1,0 +1,1 @@
+intf("%s",strupr
